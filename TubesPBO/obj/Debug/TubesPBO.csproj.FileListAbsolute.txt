@@ -1,0 +1,82 @@
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\TubesPBO.exe.config
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\TubesPBO.exe
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\TubesPBO.pdb
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\Google.Protobuf.dll
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\Guna.UI2.dll
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\MySql.Data.dll
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\System.Buffers.dll
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\System.Memory.dll
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\ZstdNet.dll
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\Google.Protobuf.pdb
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\Google.Protobuf.xml
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\MySql.Data.xml
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\System.Buffers.xml
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\System.Memory.xml
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\obj\Debug\TubesPBO.LoginForm.resources
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\obj\Debug\TubesPBO.Properties.Resources.resources
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\obj\Debug\TubesPBO.csproj.GenerateResource.cache
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\obj\Debug\TubesPBO.csproj.CoreCompileInputs.cache
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\obj\Debug\TubesPBO.exe
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\obj\Debug\TubesPBO.pdb
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\obj\Debug\TubesPBO.csproj.AssemblyReference.cache
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\obj\Debug\TubesPBO.MainForm.resources
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\obj\Debug\TubesPBO.InfoKamar.resources
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\obj\Debug\TubesPBO.Penghuni.resources
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\obj\Debug\TubesPBO.Pekerja.resources
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\obj\Debug\TubesPBO.Keuangan.resources
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\obj\Debug\TubesPBO.Loading.resources
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\TubesPBO.exe.config
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\TubesPBO.exe
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\TubesPBO.pdb
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\Google.Protobuf.dll
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\Guna.UI2.dll
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\MySql.Data.dll
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\System.Buffers.dll
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\System.Memory.dll
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\ZstdNet.dll
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\Google.Protobuf.pdb
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\Google.Protobuf.xml
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\MySql.Data.xml
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\System.Buffers.xml
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\System.Memory.xml
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\obj\Debug\TubesPBO.csproj.AssemblyReference.cache
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\obj\Debug\TubesPBO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\obj\Debug\TubesPBO.InfoKamar.resources
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\obj\Debug\TubesPBO.Keuangan.resources
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\obj\Debug\TubesPBO.Loading.resources
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\obj\Debug\TubesPBO.LoginForm.resources
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\obj\Debug\TubesPBO.MainForm.resources
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\obj\Debug\TubesPBO.Pekerja.resources
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\obj\Debug\TubesPBO.Penghuni.resources
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\obj\Debug\TubesPBO.Properties.Resources.resources
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\obj\Debug\TubesPBO.csproj.GenerateResource.cache
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\obj\Debug\TubesPBO.csproj.CoreCompileInputs.cache
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\obj\Debug\TubesPBO.csproj.CopyComplete
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\obj\Debug\TubesPBO.exe
+C:\Users\ncano\OneDrive\Desktop\C# WinForms\TubesPBO\TubesPBO\obj\Debug\TubesPBO.pdb
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\obj\Debug\TubesPBO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ncano\source\repos\TubesPBO\TubesPBO\obj\Debug\TubesPBO.csproj.CopyComplete
