@@ -1,16 +1,17 @@
 # Aplikasi Penyewaan Kost
 Dibuat menggunakan Windows Forms in C# <br />
 Menggunakan Database MySQL <br />
+Dengan Konsep Object Oriented <br />
 
 <br />
 
-Tampilan Loading <br />
-
-![image](https://user-images.githubusercontent.com/64438437/207672105-9f941ba6-40bb-4449-b466-77b51e47c719.png)
-
-Tampilan Login
-
-![Screenshot (735)](https://user-images.githubusercontent.com/64438437/207673048-46a8c830-c047-4718-8f27-c80484ccf145.png)
-
+Memiliki Fungsionalitas Sebagai Berikut <br />
+1. Dengan mudah memantau Kost agar mengetahui jumlah kamar kosong dan waktu berakhir dari setiap penghuni
+2. Dapat melihat, menambah, mengubah, dan menghapus penghuni & pekerja
+3. Terdapat fitur untuk menghitung jumlah keuntungan berdasarkan selisih biaya sewa dan operasional
+4. Terdapat fitur pindah kamar apabila penghuni ingin pindah karena alasan tertentu
 <br />
-Hello Peter
+
+## Berikut ini merupakan tampilan Aplikasi tersebut
+
+![Screenshot (736)](https://user-images.githubusercontent.com/64438437/207772142-aad57ee4-3dfe-4637-87b8-30c4e1a52919.png)
