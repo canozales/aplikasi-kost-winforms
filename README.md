@@ -1,4 +1,4 @@
-# Aplikasi Penyewaan Kost
+# Aplikasi Penyewaan Kost Putri
 Dibuat menggunakan Windows Forms in C# <br />
 Menggunakan Database MySQL <br />
 Dengan Konsep Object Oriented <br />
